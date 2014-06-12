@@ -1,0 +1,5 @@
+A handy script for dealing with printers, and using them as file servers
+and stuff. Especially useful in conjuction with directory traversal bugs
+like http://www.exploit-db.com/exploits/15631/
+I'm not the original author but I'm reuploading it here since I fixed a bug
+where it often wouldn't upload files properly.
